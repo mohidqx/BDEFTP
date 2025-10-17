@@ -1,4 +1,4 @@
-# Browser Data Extractor and Facebook Phishing Tool
+# Browser Data Extractor and Facebook Stealer
 
 This Python script is designed to extract browser data, including cookies and login credentials, from various browsers installed on a Windows system. It specifically targets Facebook-related data for phishing purposes. This will show you Data in your Terminal.
 
@@ -18,8 +18,8 @@ This Python script is designed to extract browser data, including cookies and lo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mohidqx/BDEFTP
-   cd BDEFTP
+   git clone https://github.com/mohidqx/BDEFS
+   cd BDEFS
    ```
 
 2. Install the required Python packages:
