@@ -87,7 +87,6 @@ The script identifies and extracts data from the following browsers:
 
 - **Cookies and Login Data:** The script decrypts and extracts cookies and login credentials from the identified browsers.
 - **Facebook Data:** It specifically looks for Facebook-related data, including ad account information, page details, and user credentials.
-- **Telegram Notification:** The extracted data is packaged into a ZIP file and sent to the configured Telegram bot.
 
 ## Example Output
 
