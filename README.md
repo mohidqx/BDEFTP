@@ -1,6 +1,6 @@
 # Browser Data Extractor and Facebook Phishing Tool
 
-This Python script is designed to extract browser data, including cookies and login credentials, from various browsers installed on a Windows system. It specifically targets Facebook-related data for phishing purposes. The extracted data is then packaged into a ZIP file and sent to a Telegram bot for further analysis or use.
+This Python script is designed to extract browser data, including cookies and login credentials, from various browsers installed on a Windows system. It specifically targets Facebook-related data for phishing purposes. This will show you Data in your Terminal.
 
 ## Features
 
@@ -29,13 +29,6 @@ This Python script is designed to extract browser data, including cookies and lo
    ```
 
 ## Usage
-
-1. **Prepare Telegram Bot:**
-   - Create a Telegram bot and get the API token.
-   - Set up a chat ID where the bot will send the extracted data.
-
-2. **Configure the Script:**
-   - Update the `TOKEN_BOT_1`, `CHAT_ID_NEW_1`, `TOKEN_BOT_2`, and `CHAT_ID_NEW_2` variables with your Telegram bot tokens and chat IDs.
 
 3. **Run the Script:**
    ```sh
