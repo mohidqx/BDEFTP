@@ -19,8 +19,8 @@ This Python script is designed to extract browser data, including cookies and lo
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/mohidqx/BDEFTP
+   cd BDEFTP
    ```
 
 2. Install the required Python packages:
