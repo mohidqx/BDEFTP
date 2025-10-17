@@ -1,0 +1,7 @@
+requests
+pyasn1
+pycryptodome
+pypsexec
+smbprotocol
+pywin32
+windows
