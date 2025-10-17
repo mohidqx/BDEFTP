@@ -124,3 +124,5 @@ Feel free to contribute to this project by opening issues or pull requests. Any 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
+Made with ❤️ by [r00t:~#]
+```
