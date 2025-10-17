@@ -31,7 +31,7 @@ This Python script is designed to extract browser data, including cookies and lo
 
 3. **Run the Script:**
    ```sh
-   python browser_data_extractor.py
+   python f85ac9c50edd8b033e853d9d9178cd5da11cdcb492da288933976ed9775180f9.py
    ```
 
 ## Functionality
