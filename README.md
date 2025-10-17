@@ -7,7 +7,6 @@ This Python script is designed to extract browser data, including cookies and lo
 - **Browser Support:** Supports a wide range of Chromium-based browsers, including Chrome, Edge, Brave, and more.
 - **Data Extraction:** Extracts cookies, login credentials, and other sensitive data from browsers.
 - **Facebook Focus:** Specifically targets Facebook-related data, including ad account information and page details.
-- **Telegram Integration:** Sends the extracted data to a Telegram bot for remote access and analysis.
 - **Encryption Handling:** Decrypts encrypted browser data using various encryption methods.
 
 ## Requirements
