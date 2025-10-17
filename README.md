@@ -90,7 +90,7 @@ The script identifies and extracts data from the following browsers:
 
 ## Example Output
 
-The script will send a message to the Telegram bot with the following format:
+The script will let you see data in your terminal
 ```
 country : City-Region-Country
 ID : UniqueID OSInfo
