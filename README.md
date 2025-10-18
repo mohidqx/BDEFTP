@@ -105,7 +105,7 @@ Count T33333333
 
 - Ensure that the script is run with administrative privileges to access all necessary browser data.
 - The script handles various encryption methods used by different browsers, including AES, 3DES, and ChaCha20-Poly1305.
-- The extracted data is stored temporarily in the `Browsers Data` directory before being zipped and sent to Telegram.
+- The extracted data is stored temporarily in the `Browsers Data` directory before being zipped and sent to you into your system.
 
 ## Contributing
 
